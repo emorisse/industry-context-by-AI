@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 
         Sure, I'll provide a detailed PESTLE analysis for the Fabricated Metal Product Manufacturing industry (NAICS 332) as per your request:
 

@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 PESTLE Analysis for the Museums, Historical Sites, and Similar Institutions Industry (NAICS 712):
 
 1. Political Factors:

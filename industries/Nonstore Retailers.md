@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 Certainly! Here is an exhaustive PESTLE analysis for the Nonstore Retailers industry (NAICS 454):
 
 [Political Factors]

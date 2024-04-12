@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for Specialty Trade Contractors (NAICS 238)**
 
 **Political Factors**

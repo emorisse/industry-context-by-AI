@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political Factors]
 - High regulation and government oversight on social assistance programs
 - Policy changes in government funding for social services

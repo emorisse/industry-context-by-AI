@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 Absolutely, I’ll provide a detailed PESTLE analysis for the Funds, Trusts, and Other Financial Vehicles industry, identified by NAICS code 525
 
 **Political Factors**

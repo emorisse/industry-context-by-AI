@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political Factors]
 - [High] Government regulations and policies can significantly impact the operation and reimbursement rates of ambulatory health care services.
 - [Moderate] Changes in healthcare legislation, such as the Affordable Care Act in the U.S., can alter the landscape for ambulatory care providers.

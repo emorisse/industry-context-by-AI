@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for Gasoline Stations Industry (NAICS 447)**
 
 **Political Factors**

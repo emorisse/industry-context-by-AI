@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 Certainly! Here is a comprehensive PESTLE analysis for the Merchant Wholesalers industry in Nondurable Goods (NAICS 424):
 
 1. Political Factors:

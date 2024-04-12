@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political Factors]
 - [High] Government regulations on energy efficiency standards for electrical appliances.
 - [Medium] Trade policies affecting import/export of electrical components.

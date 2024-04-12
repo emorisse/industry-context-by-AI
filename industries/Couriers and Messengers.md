@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 PESTLE Analysis for the Couriers and Messengers Industry (NAICS 492):
 
 Political Factors:

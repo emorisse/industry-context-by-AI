@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for Primary Metal Manufacturing (NAICS 331)**
 
 **Political**

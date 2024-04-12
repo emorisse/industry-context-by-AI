@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High impact: Government regulations and censorship on online content
 - High impact: Data protection and privacy laws

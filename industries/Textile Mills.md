@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High impact: Trade policies and tariffs imposed by governments can significantly affect the cost of importing raw materials and exporting finished goods.
 - Medium impact: Labor laws and regulations regarding wages, working conditions, and employment practices can impact production costs.

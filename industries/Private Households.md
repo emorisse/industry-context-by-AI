@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 PESTLE Analysis for Private Households Industry (NAICS 814)
 
 Political

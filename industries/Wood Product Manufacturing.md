@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political Factors]
 - High impact: Government policies and regulations related to deforestation and sustainable forestry practices
 - Medium impact: Trade agreements and tariffs affecting import/export of wood products

@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High impact: Government regulations and policies can greatly influence the construction industry.
 - High impact: Political stability in a region can affect infrastructure development projects.

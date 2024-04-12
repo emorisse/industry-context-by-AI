@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for Credit Intermediation and Related Activities (NAICS 522)**
 
 **Political**

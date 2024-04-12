@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political Factors]
 - High impact: Government regulations and policies affecting healthcare funding and reimbursement.
 - High impact: Changes in healthcare legislation such as the Affordable Care Act.

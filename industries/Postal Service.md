@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 Industry: Postal Service (NAICS 491)
 
 PESTLE Analysis:

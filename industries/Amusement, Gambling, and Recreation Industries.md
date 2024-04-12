@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High impact: Government regulations on gambling activities
 - Medium impact: Taxation policies on amusement and recreation businesses

@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High import tariffs on raw materials can increase production costs
 - Government regulations on environmental sustainability can affect sourcing practices

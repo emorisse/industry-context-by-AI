@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High impact: Government regulations on safety standards
 - Medium impact: Changes in legislation affecting labor laws

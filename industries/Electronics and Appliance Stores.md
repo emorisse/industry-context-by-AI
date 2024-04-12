@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High tariffs on imported electronics can increase prices for consumers.
 - Government regulations on electronic waste disposal can affect operations.

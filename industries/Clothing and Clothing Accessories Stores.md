@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 PESTLE Analysis for Clothing and Clothing Accessories Stores (NAICS 448):
 
 Political Factors:

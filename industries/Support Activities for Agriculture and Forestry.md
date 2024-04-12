@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - Government subsidies and funding can heavily influence the profitability of support activities for agriculture and forestry.
 - Regulatory policies on environmental conservation and land use can impact operations.

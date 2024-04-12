@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for Wholesale Trade Industry (NAICS 42)**
 
 **Political**

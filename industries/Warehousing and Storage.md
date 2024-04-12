@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for the Warehousing and Storage Industry (NAICS 493)**
 
 **Political**

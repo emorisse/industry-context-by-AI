@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High [impact of factor] government regulations on zoning and building codes
 - Medium [impact of factor] government policies on tourism and travel

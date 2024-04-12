@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - High impact: Government regulations and policies can significantly impact the building materials and garden equipment industry, such as zoning laws, environmental regulations, and trade policies.
 - Moderate impact: Changes in government leadership and stability can affect investment and consumer confidence.

@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 [Political]
 - Positive government policies supporting domestic manufacturing can boost the industry
 - Trade tariffs and international trade agreements can affect the import/export dynamics of raw materials

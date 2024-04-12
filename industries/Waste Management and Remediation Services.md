@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for Waste Management and Remediation Services Industry (NAICS 562)**
 
 **Political Factors:**

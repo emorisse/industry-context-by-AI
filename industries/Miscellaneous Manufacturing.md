@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for Miscellaneous Manufacturing Industry (NAICS 339)**
 
 **Political Factors:**

@@ -1,3 +1,4 @@
+*Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
 **PESTLE Analysis for the Agriculture, Forestry, Fishing and Hunting Industry (NAICS 11)**
 
 **Political Factors** 
