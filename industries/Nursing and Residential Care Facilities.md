@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 Certainly! Below is an exhaustive PESTLE analysis for the Nursing and Residential Care Facilities Industry (NAICS 623):
 
 [Political]

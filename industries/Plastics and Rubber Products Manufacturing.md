@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political factors]
 - Strongly impactful: Government regulations on environmental protection and waste management
 - Moderately impactful: Trade policies and tariffs

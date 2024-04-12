@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political Factors]
 - [Impact of factor] Trade policies and tariffs
 - [Impact of factor] Government regulations on recycling and environmental impact

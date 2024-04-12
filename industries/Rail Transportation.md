@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 PESTLE Analysis for Rail Transportation Industry (NAICS 482):
 
 Political Factors:

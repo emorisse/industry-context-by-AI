@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 PESTLE analysis for the Mining (except Oil and Gas) Industry (NAICS 212)
 
 Political Factors:

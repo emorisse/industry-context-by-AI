@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 Certainly! Below is an exhaustive PESTLE analysis for the Truck Transportation industry (NAICS 484):
 
 **Political**

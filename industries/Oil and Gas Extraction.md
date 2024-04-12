@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High impact: Government regulations and policies 
 - High impact: Geopolitical tensions in oil-producing regions 

@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High regulations on labor practices may impact staffing costs.
 - Changes in minimum wage laws can affect operational expenses.

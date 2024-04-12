@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 PESTLE Analysis for the Food and Beverage Stores Industry (NAICS 445)
 
 Political:

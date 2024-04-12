@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political Factors]
 - High impact: Regulatory changes in insurance laws
 - Moderate impact: Government stability and potential changes in policies

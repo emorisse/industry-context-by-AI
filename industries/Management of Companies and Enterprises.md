@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 PESTLE Analysis for Management of Companies and Enterprises (NAICS 55):
 
 [Political Factors]

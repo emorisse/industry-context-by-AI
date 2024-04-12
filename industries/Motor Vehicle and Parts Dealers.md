@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political Factors]
 - High impact: Government regulations on emissions standards and safety requirements.
 - Medium impact: Tariffs and trade policies affecting imported vehicles.

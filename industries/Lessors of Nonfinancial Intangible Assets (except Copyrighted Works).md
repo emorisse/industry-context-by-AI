@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 **PESTLE Analysis for Lessors of Nonfinancial Intangible Assets (NAICS 533)**
 
 **Political**

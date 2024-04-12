@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 **Political Factors**
 - **Impact of factor:** Government regulations on data privacy and protection could affect the industry.
 - **Impact of factor:** Government policies on data localization and cross-border data transfers.

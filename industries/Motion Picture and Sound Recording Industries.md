@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 PESTLE Analysis for the Motion Picture and Sound Recording Industries (NAICS 512)
 
 Political Factors:

@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 Absolutely, I will provide a comprehensive PESTLE analysis for the Heavy and Civil Engineering Construction industry (NAICS 237) as per your request.
 
 **Political Factors:**

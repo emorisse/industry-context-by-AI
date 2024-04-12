@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High impact: Government regulations on retail operations
 - Moderate impact: Trade policies affecting imported goods

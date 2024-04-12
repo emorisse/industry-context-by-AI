@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 **PESTLE Analysis for Securities, Commodity Contracts, and Other Financial Investments and Related Activities (NAICS 523)**
 
 **Political Factors**

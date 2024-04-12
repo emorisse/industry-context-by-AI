@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High Impact: Trade policies and tariffs can significantly affect the cost of raw materials imported for manufacturing.
 - Moderate Impact: Government regulations on sustainability and environmental impact may require changes in manufacturing processes.

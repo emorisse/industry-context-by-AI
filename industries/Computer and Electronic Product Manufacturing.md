@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High impact: Trade policies and tariffs can affect global supply chains and production costs.
 - Medium impact: Government regulations regarding product safety and environmental standards.

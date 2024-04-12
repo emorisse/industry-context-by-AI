@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 PESTLE Analysis for Publishing Industries (except Internet) (NAICS 511)
 
 1. Political Factors

@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 **Political Factors**
 - High
   - Government regulations on tax-exemption status and nonprofit operations

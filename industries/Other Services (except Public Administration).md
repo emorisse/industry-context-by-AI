@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political Factors]
 - High regulations on labor practices may impact the industry's ability to hire and retain talent.
 - Tariffs or trade agreements can affect the cost and availability of necessary resources.

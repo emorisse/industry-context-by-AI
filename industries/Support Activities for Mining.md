@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 Sure, here is an exhaustive PESTLE analysis for the Support Activities for Mining industry (NAICS 213):
 
 Political:

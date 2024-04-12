@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political Factors]
 - Political stability can impact trade policies and regulations governing the industry.
 - Government legislation on taxation and tariffs can affect profitability and competitiveness.

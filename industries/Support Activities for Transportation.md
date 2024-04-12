@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High impact: Government regulations and policies related to transportation safety and security
 - High impact: Changes in government funding and subsidies for transportation infrastructure projects

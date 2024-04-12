@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High taxes on tobacco products can affect profit margins and consumption rates.
 - Government regulations on packaging and labeling can impact marketing strategies.

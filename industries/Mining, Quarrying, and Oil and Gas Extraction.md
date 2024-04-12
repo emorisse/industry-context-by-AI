@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political Factors]
 - High regulation and compliance requirements in mining, quarrying, and oil and gas extraction.
 - Political stability in regions where extraction activities take place can impact operations.

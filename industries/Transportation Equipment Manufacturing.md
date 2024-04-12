@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 **PESTLE Analysis for Transportation Equipment Manufacturing Industry (NAICS 336)**
 
 **Political**

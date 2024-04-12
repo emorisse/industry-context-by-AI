@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High impact: Government regulations on environmental protection and resource extraction
 - Medium impact: Changes in trade policies affecting imports and exports

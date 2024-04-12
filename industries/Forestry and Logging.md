@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 [Political]
 - High impact: Government regulations and policies can greatly influence forestry practices and logging operations.
 - Medium impact: Political stability in regions where forestry activities take place can impact investment decisions.

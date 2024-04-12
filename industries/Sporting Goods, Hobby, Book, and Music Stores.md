@@ -1,4 +1,6 @@
 *Copyright 2024 Erich Morisse.  Subject to the GPLv3 license.*
+
+
 **PESTLE Analysis for Sporting Goods, Hobby, Book, and Music Stores (NAICS 451)**
 
 **Political Factors**
