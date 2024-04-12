@@ -1,4 +1,4 @@
-![](Accommodation (NAICS 721).png)
+![](Accommodation%20%28NAICS%20721%29.png)
 
 Businesses in the accommodation industry (NAICS 721) need a variety of elements to operate successfully. Here are the top 10-12 things businesses in this industry need, how they can serve these needs, what adds to each component, and any dependencies or links that may exist:
 
